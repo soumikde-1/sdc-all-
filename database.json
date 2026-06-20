@@ -1,0 +1,55 @@
+{
+  "subjects": [
+    "Accountancy",
+    "BLA"
+  ],
+  "students": [
+    {
+      "name": "s",
+      "id": "93e4f788-c9cf-4081-b043-68b8b92cd131",
+      "email": "student@gmail.com",
+      "className": "Sem 1"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Consingment",
+      "subject": "Accountancy"
+    },
+    {
+      "name": "LLV",
+      "subject": "Accountancy"
+    }
+  ],
+  "materials": [
+    {
+      "title": "NEW",
+      "topic": "Consingment",
+      "id": "2ad05649-3a0c-4196-a26e-684d72c43e10",
+      "subject": "Accountancy",
+      "link": "Https://drive.google.com/file/d/19Q3CwLpIPXwvfuyRwl4YotOqDCujEigz/view?usp=drivesdk",
+      "className": "Sem 1"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Congsingment 1",
+      "topic": "Consingment",
+      "id": "45b88f49-f2e9-46ad-94f2-2fc83d29874e",
+      "ytId": "DPmjYun9mRU",
+      "subject": "Accountancy",
+      "className": "Sem 1"
+    },
+    {
+      "id": "a67bee50-34c7-430a-a9b5-6409b3d8e526",
+      "ytId": "21tXhwYB4tw",
+      "title": "11",
+      "className": "Sem 1",
+      "subject": "Accountancy",
+      "topic": "Consingment"
+    }
+  ],
+  "classes": [
+    "Sem 1"
+  ]
+}
